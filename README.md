@@ -2,7 +2,7 @@
 
 Welcome to the Sims 4 DLC Unlocker V2.0 project! This tool is designed to enhance your Sims 4 gaming experience by providing a faster and more efficient way to unlock downloadable content (DLC) for the game. Compared to the previous version (V1.0), V2.0 offers significant improvements, making the unlocking process completely automatic and eliminating the need for manual intervention. 
 
-New website: bit.ly/simsunlocker
+New website: https://bit.ly/simsunlocker
 
 ## Features
 
