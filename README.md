@@ -2,7 +2,9 @@
 
 Welcome to the Sims 4 DLC Unlocker V2.0 project! This tool is designed to enhance your Sims 4 gaming experience by providing a faster and more efficient way to unlock downloadable content (DLC) for the game. Compared to the previous version (V1.0), V2.0 offers significant improvements, making the unlocking process completely automatic and eliminating the need for manual intervention. 
 
-New website: https://cutt.ly/Gwep0Qfu
+New website: [Website](https://dlcunlocker.000webhostapp.com/index.html)
+Discord Server *New*: [Discord](https://disboard.org/server/1185981172862423212)
+
 
 ## Features
 
@@ -34,15 +36,15 @@ If you encounter any issues or have questions about Sims 4 DLC Unlocker V2.0, pl
 
 - **Support**: Reach out to our dedicated support team via email at sims4dlc@proton.me. We're here to help you with any concerns you may have.
  
-Discord: NoFace#7674
+Discord: @nofacemelon
 Telegram: @NoFaceMelon
 
 HOW TO BUY?
 
 1. DM Melon on one of the following 3 ways!
-  1) Discord: NoFace#7674
+  1) Discord: @nofacemelon
   2) Telegram: @NoFaceMelon
-  3) Mail: sims4dlc@proton.me
+  
 
 2. This product is not free, if you are interested in buying this products. We accept the following 2 payments.
   1) PayPal
