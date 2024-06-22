@@ -41,7 +41,7 @@ Telegram: @NoFaceMelon
 
 HOW TO BUY?
 
-1. DM Melon on one of the following 3 ways!
+1. DM Melon on one of the following ways!
   1) Discord: @nofacemelon
   2) Telegram: @NoFaceMelon
   
